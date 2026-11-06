@@ -1,6 +1,6 @@
 ```javascript
 // Mira: voice in -> Claude (via your server) -> voice out
-const SERVER_URL = "http://YOUR-SERVER-ADDRESS:3000/chat"; // change this later
+const SERVER_URL = ".https://mira-server-4.onrender.com/chat"; // change this later
 
 const statusEl = document.getElementById("status-display");
 const outputEl = document.getElementById("output-area");
