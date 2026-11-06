@@ -1,4 +1,4 @@
-```javascript
+
 // Mira: voice in -> Claude (via your server) -> voice out
 const SERVER_URL = ".https://mira-server-4.onrender.com/chat"; // change this later
 
